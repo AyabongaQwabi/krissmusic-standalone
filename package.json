@@ -1,0 +1,23 @@
+{
+  "name": "krissmusic-standalone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyabongaQwabi/krissmusic-standalone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyabongaQwabi/krissmusic-standalone/issues"
+  },
+  "homepage": "https://github.com/AyabongaQwabi/krissmusic-standalone#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "http": "0.0.0"
+  }
+}
