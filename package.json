@@ -4,8 +4,13 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+   "start":"node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+"keywords": [
+    "krissmusic-standalone-download-list",
+    "heroku"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AyabongaQwabi/krissmusic-standalone.git"
@@ -14,6 +19,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AyabongaQwabi/krissmusic-standalone/issues"
+  },
+  "engines": {
+    "node": "7.4.1"
   },
   "homepage": "https://github.com/AyabongaQwabi/krissmusic-standalone#readme",
   "dependencies": {
