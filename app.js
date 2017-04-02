@@ -23,4 +23,4 @@ var app = express();
 app.get('/',function(req,res){
   res.send(pageHtml.toString())
 })
-app.listen(80)
+app.set('port', (process.env.PORT || 5000));
