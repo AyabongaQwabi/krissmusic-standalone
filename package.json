@@ -21,7 +21,7 @@
     "url": "https://github.com/AyabongaQwabi/krissmusic-standalone/issues"
   },
   "engines": {
-    "node": "7.4.1"
+    "node": "7.4.0"
   },
   "homepage": "https://github.com/AyabongaQwabi/krissmusic-standalone#readme",
   "dependencies": {
